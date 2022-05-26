@@ -1,0 +1,18 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+    border: 2px solid green;
+}
+
+#my_form input, #my_form button {
+    width: 24%; 
+    padding: 0.5em;
+    box-sizing: border-box;  
+
+}
+
+#my_form {
+    padding: 1em;
+    margin-bottom: 1em;
+
+}
